@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "name": "Western Wear",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGMcEWMHGwcn6dN8BfMg56oyx6Nx13V4n8Q&usqp=CAU",
+            "brand": "PIECES",
+            "price": 700,
+            "size" : ["S","M","L"]
+        },
+        {
+            "name": "Lehanga",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4BaSYWHpafZ2zvQBQu-0eJiMidbumrgcmQ&usqp=CAU",
+            "brand": "TAURUS",
+            "price": 490,
+            "size" : ["S","XL"]
+        },
+        {
+            "name": "Cotton Pant",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJRWAIT4qO-duRcKB1pCOuPMXUFeqvztv6A&usqp=CAU",
+            "brand": "ANTELOPE",
+            "price": 1200,
+            "size" : ["S","M","L","XL"]
+        },
+        {
+            "name": "Green Sweater",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPl_HItdWcWPMtnvoppCOlOkP52eYf2tFd9w&usqp=CAU",
+            "brand": "LOLIPOP",
+            "price": 1700,
+            "size" : ["S","M","XL"]
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+snhyun/lee/flashy_tab_bar/BuildConfig.java
+ snhyun.lee.flashy_tab_bar.BuildConfig
